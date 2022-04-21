@@ -19,3 +19,12 @@ meson compile -C builddir
 
 The above commands perform initial configuration & compilation run for the project.
 The resulting executable is placed into `builddir/src/runme`.
+
+## Visual Studio Code
+
+The project includes a basic VSCode workspace file ready for immediate loading.
+
+The recommended set of VSCode extensions: 
+
+- [mesonbuild.mesonbuild](https://marketplace.visualstudio.com/items?itemName=mesonbuild.mesonbuild)
+- [prince781.vala](https://marketplace.visualstudio.com/items?itemName=prince781.vala)
